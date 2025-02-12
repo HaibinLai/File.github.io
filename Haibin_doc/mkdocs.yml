@@ -1,0 +1,17 @@
+site_name: SUSTech HPC Lab
+nav:
+  - Home: index.md
+  - Real Time System: 分布式实时通信系统.md
+theme: 
+  name: 'material'
+  language: 'zh'
+  # custom_dir: 'theme-override/'
+  icon:
+    logo: material/memory
+    repo: fontawesome/brands/github
+  features:
+      # - navigation.tabs
+      # - navigation.instant
+
+repo_name: 'SUSTech-HPC-Lab/HPC-Lab-Docs'
+repo_url: 'https://github.com/HaibinLai/SUSTech-HPC-lab.github.io'
